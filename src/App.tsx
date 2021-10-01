@@ -8,8 +8,8 @@ import { UserProfile } from "./UserProfile";
 import { User } from "./types/user";
 
 const user: User = {
-  name: "じゃけえ"
-  // hobbies: ["映画", "ゲーム"]
+  name: "じゃけえ",
+  hobbies: ["映画", "ゲーム"]
 };
 
 export default function App() {

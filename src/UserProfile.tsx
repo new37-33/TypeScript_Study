@@ -1,6 +1,7 @@
 import { VFC } from "react";
 import { User } from "./types/user";
 
+//userというpropsを受け取り、その中身はUser
 type Props = {
   user: User;
 };
